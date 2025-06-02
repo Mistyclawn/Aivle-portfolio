@@ -11,10 +11,10 @@
 - 🎓 충북대학교 소프트웨어학과 졸업
 - 🔧 주요 관심 분야: 프론트엔드 + 백엔드 + 게임 개발 + 인터랙티브 UI
 - 🧠 기술 스택:
-  - Frontend: HTML, CSS, JavaScript, React, TypeScript, Figma
-  - Backend: Python, Node.js, Django, Flask, MySQL, Firebase
+  - Frontend: HTML, CSS
+  - Backend: Python, MySQL, JAVA (학습 중) Firebase
   - AI/ML: TensorFlow, scikit-learn
-  - Game: Unity(C#), Pygame, Godot (학습 중)
+  - Game: Unity(C#), Pygame (학습 중)
 - ✨ 핵심 역량: 사용자 중심 사고 / 문제 해결력 / 팀 협업 및 커뮤니케이션
 - 📫 Email: mistyc.dev@gmail.com  
 - 🔗 GitHub: [github.com/mistyc](https://github.com/mistyc)
@@ -28,7 +28,7 @@
 - **프로젝트명:** 와인 품질 분류 AI 모델 개발  
 - **기간:** AIVLE School 미니프로젝트 1차 (2025.05)  
 - **참여 인원:** AI 04반 13조 (김시훈, 박기웅, 신현승, 안도형, 양준모, 이유민)  
-- **기여 내용:** 딥러닝 모델 설계 및 성능 개선 전략 수립
+- **기여 내용:** 딥러닝 모델 설계 및 성능 개선 전략 수립, 팀장
 
 ---
 
